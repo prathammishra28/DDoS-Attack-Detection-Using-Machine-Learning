@@ -1,6 +1,9 @@
 # DDoS-Attack-Detection-Using-Machine-Learning
 Distributed Denial of Service (DDoS) attacks pose a significant threat to network security by overwhelming systems with excessive traffic, leading to disruptions or outages. This project aims to improve DDoS protection using machine learning techniques for efficient detection and response to these attacks.
-Datasets Imbalanced Dataset: Contains a majority of normal traffic with a small proportion of DDoS attacks, making it challenging to accurately detect the minority class. Balanced Dataset: Features an equal distribution of normal and attack traffic, allowing for a more balanced evaluation of model performance.
+
+Datasets Imbalanced Dataset: Contains a majority of normal traffic with a small proportion of DDoS attacks, making it challenging to accurately detect the minority class. 
+
+Balanced Dataset: Features an equal distribution of normal and attack traffic, allowing for a more balanced evaluation of model performance.
 
 Machine Learning Techniques Supervised Learning: Uses algorithms such as Decision Trees, Random Forests, and Support Vector Machines (SVMs) for traffic classification. Ensemble Methods: Combines multiple models to enhance accuracy and reduce overfitting. Anomaly Detection: Identifies deviations from typical traffic patterns to detect potential attacks.
 
